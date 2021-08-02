@@ -19,3 +19,8 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+先启动static下的koa服务器 node app.js
+
+再启动项目
+
